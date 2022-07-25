@@ -10,6 +10,9 @@ Bei jeder Veränderung einer Grenze soll eine Information erscheinen. Durch Ankl
 ## Entwicklungsumgebung
 Aktuell ist in der Planung das Ziel C# mit .NET und Unity zu verwenden.
 
+## Zielplattform
+Das Ergebnis soll im Browser ausgeführt werden.
+
 ## ToDo
 ### Geo-Daten
 Es wird eine Quelle für Geodaten für die Grenzinformationen benötigt. Hierbei reichen zunächst die Daten zum aktuellen Zeitpunkt, um sich von dort in die Vergangenheit zurückzuarbeiten. Es scheint aber auch schon Kartenmaterial zu geben, welches Grenzdaten aus vorherigen Zeiten beinhaltet.

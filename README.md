@@ -22,3 +22,6 @@ Klärung, wie die Grenzdaten in der Datenbank gehalten werden sollen. Soll ein b
 
 ### Oberfläche
 Es muss ein Weg gefunden werden, die Informationen aus der Datenbank grafisch zu visualisieren.
+
+### Programmname
+Es muss ein brauchbarer Name für die Anwendung gefunden werden.
